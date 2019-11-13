@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tablerow_padding">8dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="item_view_padding">8dp</dimen>
+    <dimen name="row_item_text_size">16sp</dimen>
+</resources>
